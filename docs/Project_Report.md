@@ -1,5 +1,5 @@
 # Movie Ticket Booking System  
-**By Anup Kumar Jha**  
+**Saina Rohit**  
 
 ## 1. Project Overview  
 - Purpose: Online cinema ticket booking  
