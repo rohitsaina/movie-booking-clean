@@ -1,5 +1,5 @@
 # Movie Ticket Booking System  
-**By Anup Kumar Jha**  
+**Saina Rohit**  
 
 ## 🎥 Demo Video  
 [Watch the full demo on YouTube](https://www.youtube.com/watch?v=ECQBA6tLw2M)  
